@@ -1,7 +1,8 @@
-# sgu-element
+# vue-base-lib
 
 ## Project setup
 ```
+npm i -g vue-sfc-rollup
 npm install
 ```
 
